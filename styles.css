@@ -1,0 +1,70 @@
+.container-one{
+    background-color: #1F2937;
+    color: white;
+}
+
+.header{
+    display: flex;
+    padding: 10px;
+    margin: auto;
+}
+
+.header-logo{
+    font-weight: 800;
+}
+
+.right-links{
+    display: flex;
+
+}
+
+ul{
+    list-style: none;
+    justify-content: space-around;
+    align-content: center;
+    gap: 10px;
+    margin: 0 auto;
+
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.first-section{
+    display: flex;
+    padding: 40px;
+}
+
+.awesome{
+    font-size: 38px;
+
+}
+
+.image-pc{
+    width: 38px;
+    height: 26px;
+    background-color: gray;
+
+
+}
+
+.quote-container{
+    background-color: #e5e7eb;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+    font-size: 10px;
+}
+
+button { background-color: #3882f6;
+color: white;
+border: solid #3882f6;
+border-radius: 10px;}
